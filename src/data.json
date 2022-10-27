@@ -1,0 +1,47 @@
+ [
+{
+    "id":1,
+    "studentName":"sai",
+    "CollageName": "abcCollege",
+    "gender": "male",
+    "percentage":"62%",
+    "DOJ": "2-09-2015"
+
+},
+{
+    "id":2,
+    "studentName":"kalyan",
+    "CollageName": "dbcCollege",
+    "gender": "male",
+    "percentage":"67%",
+    "DOJ": "2-09-2016"
+
+},
+{
+    "id":3,
+    "studentName":"pavani",
+    "CollageName": "dbcCollege",
+    "gender": "female",
+    "percentage":"87%",
+    "DOJ": "2-09-2014"
+},
+{
+    "id":4,
+    "studentName":"seshu",
+    "CollageName": "auCollege",
+    "gender": "male",
+    "percentage":"60%",
+    "DOJ": "2-09-2013"
+},
+{
+    "id":5,
+    "studentName":"jagadeesh",
+    "CollageName": "kcgCollege",
+    "gender": "male",
+    "percentage":"77%",
+    "DOJ": "2-09-2006"
+}
+
+
+
+]
